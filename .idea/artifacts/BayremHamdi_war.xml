@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BayremHamdi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>BayremHamdi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="BayremHamdi-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BayremHamdi:war exploded" />
+    </root>
+  </artifact>
+</component>
